@@ -2,6 +2,6 @@
 
 ## Projects
 
-¤¤¤ linux-conf
-A linux configure script for debian bases systems. 
+### linux-conf
+A linux configure script for debian bases systems.  
 [Github - linux-conf](https://github.com/twimpse/linux-conf)
